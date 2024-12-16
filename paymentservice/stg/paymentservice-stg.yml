@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 3315
+  username: payment-stg-username
+  password: payment-stg-password
