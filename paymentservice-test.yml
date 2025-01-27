@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 3309
+  username: payment-test
+  password: payment-test

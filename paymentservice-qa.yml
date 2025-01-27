@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 3305
+  username: payment-qa
+  password: payment-qa
