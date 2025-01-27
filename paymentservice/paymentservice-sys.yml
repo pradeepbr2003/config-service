@@ -1,5 +1,0 @@
-applicationconfigutation:
-  host: http://localhost
-  port: 4000
-  username: payment-sys-updated-final
-  password: payment-sys-updated-final

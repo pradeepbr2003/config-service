@@ -1,5 +1,0 @@
-applicationconfigutation:
-  host: http://localhost
-  port: 3300
-  username: payment-int
-  password: payment-int
