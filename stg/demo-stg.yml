@@ -1,0 +1,5 @@
+applicationconfigutation:
+  host: http://localhost
+  port: 3325
+  username: demo-stg-username
+  password: demo-stg-password
