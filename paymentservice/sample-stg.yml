@@ -1,5 +1,0 @@
-applicationconfigutation:
-  host: http://localhost
-  port: 6709
-  username: payment-stg-updated-final
-  password: payment-stg-updated-final
